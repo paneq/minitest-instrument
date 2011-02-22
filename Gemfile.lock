@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    minitest-instrument (0.0.1)
+      activesupport (~> 3.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activesupport (3.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.0.0)
+  minitest-instrument!
